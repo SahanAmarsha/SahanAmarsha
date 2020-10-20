@@ -41,6 +41,6 @@ Here are some ideas to get you started:
  <a href="https://redux.js.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> 
  <a href="https://www.selenium.dev" target="_blank"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> 
  <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
- <img src="jetbrains.png" width="40" height="40"> <img src="unity.jpg" width="40" height="40"><img src="flutter.svg" width="40">
+ <img src="jetbrains.png" width="40" height="40"> <img src="unity.jpg" width="40" height="40"><img src="flutter.svg" width="40" height="40">
  </p>
 
