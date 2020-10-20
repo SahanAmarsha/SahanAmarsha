@@ -2,16 +2,16 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on React Project on AWS.
+- 🔭 I’m currently working on a React Project with AWS Amplify.
 - 🌱 I’m currently learning about AI.
 - 👯 I’m looking to collaborate on OpenSource Projects.
 - 🤔 I’m looking for help with aws.
-- 💬 Ask me about React
+- 💬 Ask me about React, Flutter.
 - 📫 How to reach me: sahanamarsha@gmail.com
 
 
 <p align="left">
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">🔍 Connect with me:</h3>
 <a href="https://www.linkedin.com/in/sahanamarsha/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="kelum-sampath-edirisinghe" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/10573167" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="9976255" height="30" width="40" /></a>
 <a href="https://www.facebook.com/sahanamarsha/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="kelum sampath edirisinghe" height="30" width="40" /></a>
