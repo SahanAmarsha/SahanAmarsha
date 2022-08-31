@@ -1,28 +1,24 @@
-### Hi there 👋
+## Hi there 👋 I am [Sahan][website]  <img align="right" src="https://enu5nzh7vgf8yin.m.pipedream.net" alt="SahanAmarsha" />
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on a React Project with AWS Amplify.
-- 🌱 I’m currently learning about AI.
-- 👯 I’m looking to collaborate on OpenSource Projects.
-- 🤔 I’m looking for help with aws.
-- 💬 Ask me about React, Flutter.
+- 🔭 I’m currently working on projects with cloud-based backends.
+- 🌱 I’m currently learning about Machine Learning.
+- 👨🏽‍💻 I’m looking to collaborate on OpenSource Projects, and help the community through sharing knowledge (AWS Community Builder).
+- 💬 Ask me about React, Flutter, AWS Serverless.
 - 📫 How to reach me: devsahan.info@gmail.com
 
 
-<p align="left">
-<h3 align="left">🔍 Connect with me:</h3>
-<a href="https://www.linkedin.com/in/sahanamarsha" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sahan-amarsha linkedin" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/10573167" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="sashan-amarsha stackoverflow" height="30" width="40" /></a>
-<a href="https://www.facebook.com/sahanamarsha" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="sahan-amarsha facebook" height="30" width="40" /></a>
-<a href="https://sahanamarsha.medium.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="sahan-amarsha medium" height="30" width="40" /></a>
-<a href="https://twitter.com/dev_sahan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="sahan-amarsha twitter" height="30" width="40" /></a>
-</p>
+### 🔍 Connect with me:
+[<img align="left" alt="sahanamarsha | Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />][facebook]
+[<img align="left" alt="dev_sahan | Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
+[<img align="left" alt="sahanamarsha | LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
+[<img align="left" alt="Sahan Amarsha | Stackoverflow" src="https://img.shields.io/badge/Stackoverflow-F47F24?style=for-the-badge&logo=stackoverflow&logoColor=white" />][Stackoverflow]
+[<img align="left" alt="SahanAmarsha | YouTube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />][Youtube]
+<br />
+---
+| <a href="https://github.com/SahanAmarsha/SahanAmarsha"><img align="center" src="https://github-readme-stats.vercel.app/api?username=SahanAmarsha&count_private=true&show_icons=true&theme=vue&hide_border=true" alt="Sajee's github stats" /></a> | <a href="https://github.com/SahanAmarsha/SahanAmarsha"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SahanAmarsha&layout=compact&theme=vue&hide_border=true" /></a> |
+| ------------- | ------------- |
 
-------------
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SahanAmarsha&show_icons=true" alt="SahanAmarsha" /></p>
-<h3 align="left">🧰 Languages and Tools:</h3>
-
+### 🧰 Languages and Tools:
 <p>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"></code>
@@ -46,3 +42,9 @@ Here are some ideas to get you started:
   <br />
 </p>
 
+[website]: https://www.iamsahan.me/
+[facebook]: https://www.facebook.com/sahanamarsha
+[twitter]: https://twitter.com/dev_sahan
+[linkedin]: https://www.linkedin.com/in/sahanamarsha
+[youtube]: https://www.youtube.com/c/SahanAmarsha
+[stackoverflow]: https://stackoverflow.com/users/10573167
