@@ -8,6 +8,7 @@
 
 
 ### 🔍 Connect with me:
+[<img align="left" alt="sahanamarsha | Medium" src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" />][medium]
 [<img align="left" alt="sahanamarsha | Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />][facebook]
 [<img align="left" alt="dev_sahan | Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
 [<img align="left" alt="sahanamarsha | LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
@@ -48,3 +49,4 @@
 [linkedin]: https://www.linkedin.com/in/sahanamarsha
 [youtube]: https://www.youtube.com/c/SahanAmarsha
 [stackoverflow]: https://stackoverflow.com/users/10573167
+[medium]: https://sahanamarsha.medium.com
