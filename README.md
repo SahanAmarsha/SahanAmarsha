@@ -16,7 +16,7 @@
 [<img align="left" alt="SahanAmarsha | YouTube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />][Youtube]
 <br />
 ---
-| <a href="https://github.com/SahanAmarsha/SahanAmarsha"><img align="center" src="https://github-readme-stats.vercel.app/api?username=SahanAmarsha&count_private=true&show_icons=true&theme=vue&hide_border=true" alt="Sajee's github stats" /></a> | <a href="https://github.com/SahanAmarsha/SahanAmarsha"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SahanAmarsha&layout=compact&theme=vue&hide_border=true" /></a> |
+| <a href="https://github.com/SahanAmarsha/SahanAmarsha"><img align="center" src="https://github-readme-stats.vercel.app/api?username=SahanAmarsha&count_private=true&show_icons=true&theme=vue&hide_border=true" alt="Sahan's github stats" /></a> | <a href="https://github.com/SahanAmarsha/SahanAmarsha"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SahanAmarsha&layout=compact&theme=vue&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 ### 🧰 Languages and Tools:
